@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jobquick.techinsights.guru/sitemap.xml
